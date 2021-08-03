@@ -1,8 +1,61 @@
 h1 {
     color: rgb(255, 255, 255);
-    background-color: rgb(231, 155, 238);
+    background-color: rgba(253, 185 ,200, 0.527);
 
     }
-    body {
-        background-color: rgb(241, 214, 247);
-        }
+body {
+        background-color: rgba(247, 214, 233, 0.932);
+        padding-left: 200px;
+        padding-right: 200px;
+     }
+.color{
+    float: left;
+    width: 600px;
+    padding-right: 30px;
+}
+
+.main2 img{
+    width: 250px;
+}
+
+.mokuji{
+    margin: auto;
+}
+.mokuji img{
+    height: 280px;
+}
+.ringo {
+    float: left;
+    padding-left: 50px;
+    padding-right: 70px;
+}
+
+.main1{
+    margin-top: 30px;
+    margin-bottom:100px;
+}
+
+.main2{ margin-top: 30px;
+    margin-bottom:100px;
+
+}
+
+.main3{
+    margin-top: 30px;
+    margin-bottom:100px;
+}
+
+.main4{
+    margin-top: 30px;
+    margin-bottom:100px;
+}
+
+.top h1{
+    text-align: center;
+    text-decoration: underline;
+}
+
+.top img{
+    display: block;
+    margin: auto;
+}
