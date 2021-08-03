@@ -59,3 +59,11 @@ body {
     display: block;
     margin: auto;
 }
+
+a:link { 
+    color:#f08080; 
+    }
+
+    a:visited { 
+        color:#f273f7;　←紫色
+        }
